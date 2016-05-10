@@ -6,5 +6,6 @@ class TerribleJob < Formula
 
   def install
       bin.install "terrible_job"
+      ohai "Have a terrible day"
   end
 end
