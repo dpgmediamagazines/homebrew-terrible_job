@@ -1,8 +1,8 @@
 class TerribleJob < Formula
   homepage "https://terrible.sanomaservices.nl"
   url "https://terrible.sanomaservices.nl/html/terrible_job-mac.tar.gz"
-  version "1.9.55"
-  sha256 "8b06d82b412174b3bf1861cc55ce87736ad9fb2f4cead2a1e87ebb25bebd6c91"
+  version "1.9.56"
+  sha256 "7436c2e5b717fc67b0e70b79037a26dea75a7e634b912cf92ffe93aafc2716c5"
 
   def install
       bin.install "terrible_job"
